@@ -10,14 +10,13 @@ $ git clone
 
 # Introduction (According to Udacity)
 
-De maneira geral, os testes A/B são realizados por analistas e cientistas de dados. Devido à frequência com que são utilizados, é importante que você se acostume com as dificuldades desse tipo de experimento.
+In a general manner, A/B tests are realized by analists and Data Scientists.
+Due to its frequency of use, it is important that you get used to the difficulties of this kind of experiment.
 
-Neste projeto, você entenderá os resultados de um teste A/B executado por um site de comércio eletrônico. Seu objetivo é trabalhar com esse notebook para ajudar a empresa a entender se deve implementar a nova página, manter a página antiga ou executar o teste por mais tempo antes de tomar a decisão.
+In this project, you will understand a A/B test performed by a website of electronic commerce.
+Your goal is to work on the notebook and to help the company to understand if you should implement the new page, keep the old page or execute the test for a longer time before taking a decision.
 
-**Antes de entregar seu projeto, verifique se todos os critérios da RUBRICA foram atendidos.
-
-Se está nesta página, significa que você já concluiu o notebook Jupyter, baixou uma cópia do documento e, assim sendo, está com tudo pronto para o envio do relatório para consequente avaliação. Se esse for o caso, parabéns! Antes de finalizar sua apresentação, leia os pontos abaixo para as verificações finais. Se ainda não for o caso, volte à página anterior para verificar se você configurou o Python em seu sistema e, em seguida, conclua o projeto.
-
+Before delivering your projet, verify if all the criteria of the rubrics are met. 
 
 
 
@@ -28,8 +27,12 @@ Se está nesta página, significa que você já concluiu o notebook Jupyter, bai
 
 ## Content of the files
 
-1. 
-
+1. ab_data.csv: data set to be explored
+2. Analyze_ab_test_results_notebook.html: html file of the project 
+3. Analyze_ab_test_results_notebook.ipynb: the jupyter notebook of the project
+4. CorrecaoProjeto2.pdf: correction of the project
+5. countries.csv: data set of the project
+6. RubricsUdacity.pdf: rubrics of the project, according to Udacity
 
 
 

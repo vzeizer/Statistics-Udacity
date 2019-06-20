@@ -1,7 +1,7 @@
 # Statistics Project 
 
 
-This is part of the Udacity Nanodegree Data Science Foundations II, concerning the project that demonstrates Statistics knowledge.
+This is part of the Udacity Nanodegree Data Science Foundations II, concerning one hands-on project that demonstrates Statistics knowledge applied to Data Science.
 
 
 # Installation
@@ -22,7 +22,9 @@ Before delivering your projet, verify if all the criteria of the rubrics are met
 
 ## What to install?
 
-1. 
+1. Pandas
+2. Numpy
+3. Matplotlib
 
 
 ## Content of the files
@@ -30,7 +32,7 @@ Before delivering your projet, verify if all the criteria of the rubrics are met
 1. ab_data.csv: data set to be explored
 2. Analyze_ab_test_results_notebook.html: html file of the project 
 3. Analyze_ab_test_results_notebook.ipynb: the jupyter notebook of the project
-4. CorrecaoProjeto2.pdf: correction of the project
+4. CorrecaoProjeto2.pdf: correction of the project by an Udacity's reviewer
 5. countries.csv: data set of the project
 6. RubricsUdacity.pdf: rubrics of the project, according to Udacity
 
